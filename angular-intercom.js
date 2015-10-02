@@ -4,6 +4,7 @@
  * License: MIT
  */
 (function (root, factory) {
+  'use strict';
   factory(root, root.angular, root.Intercom);
 }(this, function (global, angular, Intercom) {
   'use strict';
